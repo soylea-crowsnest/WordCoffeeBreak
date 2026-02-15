@@ -1,0 +1,18 @@
+# Xcode user-specific data
+xcuserdata/
+*.xcuserdatad
+
+# Build products
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# macOS system files
+.DS_Store
+
+# Environment/secrets
+.env
+*.pem
